@@ -2,7 +2,7 @@
 ### Atualmente estou cursando Tecnologia da informação e comunicação na Faeterj-Petrópolis 👨‍🎓
 ### E na procura de um estágio para iniciar minha carreira profissional 🔥
 
-##
+## 
 
 <div align="center">
   <a href="https://github.com/fabriciohof">
