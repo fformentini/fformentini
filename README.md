@@ -1,6 +1,7 @@
 ### Olá,me chamo Fabrício Formentini 👋
 ### Atualmente estou cursando Tecnologia da informação e comunicação na Faeterj-Petrópolis 👨‍🎓
 ### E na procura de um estágio para iniciar minha carreira profissional 🔥
+### Acesse meu portfólio <a href="formentiniportfolio.netlify.app"aqui>
 
 ## 
 
@@ -13,10 +14,16 @@
 ##
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Pandas" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Pandas" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Pandas" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Python" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" >
-  <img align="center" alt="SQlite" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
+  <img align="center" alt="Pandas" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Pandas" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Selenium" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" >
+  <img align="center" alt="Pandas" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
+  
+  
+  
 </div>
 
 ##
