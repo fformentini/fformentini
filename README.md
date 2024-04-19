@@ -1,7 +1,7 @@
 ### Olá,me chamo Fabrício Formentini 👋
 ### Atualmente estou cursando Tecnologia da informação e comunicação na Faeterj-Petrópolis 👨‍🎓
 ### E na procura de um estágio para iniciar minha carreira profissional 🔥
-### Acesse meu portfólio <a href="formentiniportfolio.netlify.app">clicando aqui</a>
+### Acesse meu portfólio <a href="[formentiniportfolio.netlify.app](https://formentiniportfolio.netlify.app/)">clicando aqui</a>
 
 ## 
 
