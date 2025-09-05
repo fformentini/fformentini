@@ -1,5 +1,5 @@
 ### Olá,me chamo Fabrício Formentini 👋
-### Atualmente estou cursando Tecnologia da informação e comunicação na Faeterj-Petrópolis 👨‍🎓
+### Atualmente estou cursando Análise e desenvolvimento de sistemas na Universidade CeSumar 👨‍🎓
 ### E na procura de um estágio para iniciar minha carreira profissional 🔥
 ### Acesse meu portfólio <a href="https://formentiniportfolio.netlify.app/" target ="_blank">clicando aqui</a>
 
