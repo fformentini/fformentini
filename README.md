@@ -1,41 +1,76 @@
-### Olá,me chamo Fabrício Formentini 👋
+<h1 align="center">Olá, eu sou o Fabrício Formentini 👋</h1>
 
-### 🎓 Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Cesumar (último período)
- 
-### 📊 Apaixonado por transformar dados em informações estratégicas por meio de dashboards, automações e análises que apoiam a tomada de decisão. 
+<p align="center">
+  <strong>Analista de Dados | BI | Automação | Dashboards</strong>
+</p>
 
-## 
+<p align="center">
+🎓 Graduando em Análise e Desenvolvimento de Sistemas (último período)<br>
+📊 Transformando dados em informações estratégicas para tomada de decisão
+</p>
 
-<div align="center">
-  <a href="https://github.com/fformentini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fformentini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fformentini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## 🚀 Sobre mim
 
-##
+Sou apaixonado por transformar dados em insights que apoiam decisões de negócio.
+
+Tenho interesse em:
+
+- 📈 Business Intelligence
+- 📊 Análise de Dados
+- 🤖 Automação de Processos
+- 📋 Dashboards Interativos
+
+Atualmente estou focado em desenvolver soluções utilizando Power BI, SQL, Python e Excel para automatizar processos e gerar valor através dos dados.
+
+---
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="CSS" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="JavaScript" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" >       
-  <img align="center" alt="TailwindCSS" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg">
-  <img align="center" alt="Python" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" >
-  <img align="center" alt="Pandas" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="MySQL" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Pandas" height="60" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
-    
+  <img src="https://img.shields.io/badge/Data%20Analysis-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>   
+ 
 </div>
 
-##
+---
 
-<div> 
-  <a href="https://www.instagram.com/formentinii/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fformentini/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-![Snake animation](https://raw.githubusercontent.com/fabriciohof/fabriciohof/output/github-contribution-grid-snake.svg)
+## 🏆 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fformentini&theme=dracula" />
 
-  
-</div>
+ ![Snake animation](https://raw.githubusercontent.com/fabriciohof/fabriciohof/output/github-contribution-grid-snake.svg)
+</p>
+
+---
+
+## 📂 Projetos em Destaque
+
+🔹 Dashboard Financeiro em Power BI
+
+🔹 Automação de Processos com Python
+
+🔹 Análise Exploratória de Dados
+
+---
+
+## 🌎 Contato
+
+ 
+<p align="left">
+
+<a href="www.linkedin.com/in/fformentini/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:fabricioformentini2@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
   
