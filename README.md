@@ -64,7 +64,7 @@ Atualmente estou focado em desenvolver soluções utilizando Power BI, SQL, Pyth
  
 <p align="left">
 
-<a href="www.linkedin.com/in/fformentini/">
+<a href="https://www.linkedin.com/in/fformentini/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
