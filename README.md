@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por transformar dados em insights que apoiam decisões de negócio.
+Vejo a análise de dados como uma ferramenta para identificar oportunidades, acompanhar indicadores e apoiar decisões baseadas em resultados obtidos.
 
 Tenho interesse em:
 
