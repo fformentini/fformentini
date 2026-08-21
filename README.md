@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-🎓 Graduando em Análise e Desenvolvimento de Sistemas (último período)<br>
+🎓 Formado em Análise e Desenvolvimento de Sistemas <br>
 📊 Transformando dados em informações estratégicas para tomada de decisão
 </p>
 
